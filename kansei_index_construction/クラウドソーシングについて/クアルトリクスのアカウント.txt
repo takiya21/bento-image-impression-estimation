@@ -1,0 +1,3 @@
+Qualtricsのユーザ情報です．
+ユーザ名：qualtrics@cv.info.gifu-u.ac.jp
+パスワード：$H%JRpy7
