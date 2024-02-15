@@ -1,1 +1,0 @@
-# bento-image-impression-estimation
